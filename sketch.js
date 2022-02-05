@@ -104,7 +104,7 @@ function draw(){
     textSize(30);
     stroke("blue");
     fill("white")
-    text("they conquor the planet",480,250);
+    text("they conquer the planet",480,250);
     textSize(30);
     stroke("yellow");
     fill("blue")
